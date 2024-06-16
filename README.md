@@ -1,6 +1,6 @@
 # learning
 
-A running log of things I'm learning to build strong core skill set while also expanding breadth of knowledge on [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement). I decided to fork the original repository as it's a great for keeping track of learning material and enabling me to practice with git at the same time. A little bit every day goes a long way!
+A running log of things I'm learning to build strong core skill set while also expanding breadth of knowledge on [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement). I decided to fork the original repository as it's a great idea for keeping track of learning material and enabling me to practice with git at the same time. A little bit every day goes a long way!
 
 ## Core Skills
 
@@ -15,7 +15,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
 
 ## Cyber Security and Ethical Hacking
 
@@ -28,7 +28,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
 
 ## Linux and Command Line
 
@@ -41,7 +41,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
 
 ## Windows and Powershell
 
@@ -54,7 +54,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
 
 ## Python
 
@@ -67,7 +67,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
 
 ## Git
 
@@ -80,7 +80,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
 
 ## Certification
 
@@ -93,7 +93,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
 
 ## Personal Projects
 
@@ -106,4 +106,4 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 
-<details/>
+</details>
