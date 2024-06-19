@@ -101,6 +101,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 |[PaperMC Minecraft Server with Pi5](https://papermc.io/)|✅|
+|[OSMC on Pi 4](https://osmc.tv/)|✅|
 <details>
 <summary>Additional Resources</summary>
 
