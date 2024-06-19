@@ -102,6 +102,8 @@ A running log of things I'm learning to build strong core skill set while also e
 |---|---|
 |[PaperMC Minecraft Server with Pi5](https://papermc.io/)|✅|
 |[OSMC on Pi 4](https://osmc.tv/)|✅|
+|[Handheld emulator with miyoo mini and Onion OS](https://onionui.github.io/)|✅|
+|[Emulation on DSI with twilight menu](https://wiki.ds-homebrew.com/twilightmenu/installing-dsi)|✅|
 <details>
 <summary>Additional Resources</summary>
 
