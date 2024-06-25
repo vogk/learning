@@ -6,6 +6,8 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
+|[CCNA 200-301: Network Fundamentals](https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/)|✅|
+|[CCNA 200-301: TCP/IP and OSI Model](https://www.udemy.com/course/free-ccna-200-301-course-tcpip-and-osi-models-explained/)|✅|
 
 <details>
 <summary>Additional Resources</summary>
@@ -58,6 +60,11 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
+|[Python: Automate the boring stuff](https://www.udemy.com/course/automate/?couponCode=ST18MT62524)|✅|
+|[From zero to hero in python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)|✅|
+|[Python from begginer to intermediate](https://www.udemy.com/course/python-from-beginner-to-expert-starter-free/)|✅|
+|[Learn python for total begginers](https://www.udemy.com/course/python-3-for-total-beginners/)|✅|
+
 
 <details>
 <summary>Additional Resources</summary>
@@ -72,6 +79,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 |[Github: Working with forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)|✅|
+|[Git and Github crash course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/)|✅|
 
 <details>
 <summary>Additional Resources</summary>
@@ -100,7 +108,7 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
-|[PaperMC Minecraft Server with Pi5](https://papermc.io/)|✅|
+|[PaperMC Minecraft Server with Pi 5](https://papermc.io/)|✅|
 |[OSMC on Pi 4](https://osmc.tv/)|✅|
 |[Handheld emulator with miyoo mini and Onion OS](https://onionui.github.io/)|✅|
 |[Emulation on DSI with twilight menu](https://wiki.ds-homebrew.com/twilightmenu/installing-dsi)|✅|
@@ -111,4 +119,19 @@ A running log of things I'm learning to build strong core skill set while also e
 |---|---|
 |[Minecraft Server Raspberry Pi](https://raspberrytips.com/minecraft-server-raspberry-pi/)|✅|
 |[PaperMC Docs](https://docs.papermc.io/paper/getting-started)|✅|
+</details>
+
+
+## MISC
+
+|Resource|Progress|
+|---|---|
+|[A mini course on time managment](https://www.udemy.com/course/manageyourtime/)|✅|
+
+<details>
+<summary>Additional Resources</summary>
+
+|Resource|Progress|
+|---|---|
+
 </details>
