@@ -8,6 +8,8 @@ A running log of things I'm learning to build strong core skill set while also e
 |---|---|
 |[CCNA 200-301: Network Fundamentals](https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/)|✅|
 |[CCNA 200-301: TCP/IP and OSI Model](https://www.udemy.com/course/free-ccna-200-301-course-tcpip-and-osi-models-explained/)|✅|
+|[Network Chuck CCNA 200-301 Course](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)| |
+|[CCNA 200-301: Addressing and Subnetting](https://www.udemy.com/course/ccna-ip-addressing-and-subnetting-practical-exam-prep/)|✅|
 
 <details>
 <summary>Additional Resources</summary>
@@ -21,6 +23,9 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
+|[Hack the box: Starting point tier 0](https://app.hackthebox.com/starting-point)|✅|
+|[Hack the box: Starting point tier 1](https://app.hackthebox.com/starting-point)|✅|
+|[Hack the box: Starting point tier 2](https://app.hackthebox.com/starting-point)| |
 
 <details>
 <summary>Additional Resources</summary>
