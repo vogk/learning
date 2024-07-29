@@ -26,6 +26,8 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Hack the box: Starting point tier 0](https://app.hackthebox.com/starting-point)|✅|
 |[Hack the box: Starting point tier 1](https://app.hackthebox.com/starting-point)|✅|
 |[Hack the box: Starting point tier 2](https://app.hackthebox.com/starting-point)| |
+|[HTB Academy: intro to academy](https://academy.hackthebox.com/module/details/15)|✅|
+|[HTB Academy: settign up](https://academy.hackthebox.com/module/details/87)|✅|
 
 <details>
 <summary>Additional Resources</summary>
