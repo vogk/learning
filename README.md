@@ -27,7 +27,9 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Hack the box: Starting point tier 1](https://app.hackthebox.com/starting-point)|✅|
 |[Hack the box: Starting point tier 2](https://app.hackthebox.com/starting-point)| |
 |[HTB Academy: intro to academy](https://academy.hackthebox.com/module/details/15)|✅|
-|[HTB Academy: settign up](https://academy.hackthebox.com/module/details/87)|✅|
+|[HTB Academy: setting up](https://academy.hackthebox.com/module/details/87)|✅|
+|[HTB Academy: Network enumeration with nmap](https://academy.hackthebox.com/module/details/19)|✅|
+|[Udemy:Introduction to networking for complete begginers](https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/)|✅|
 
 <details>
 <summary>Additional Resources</summary>
