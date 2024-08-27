@@ -10,6 +10,9 @@ A running log of things I'm learning to build strong core skill set while also e
 |[CCNA 200-301: TCP/IP and OSI Model](https://www.udemy.com/course/free-ccna-200-301-course-tcpip-and-osi-models-explained/)|✅|
 |[Network Chuck CCNA 200-301 Course](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)|✅|
 |[CCNA 200-301: Addressing and Subnetting](https://www.udemy.com/course/ccna-ip-addressing-and-subnetting-practical-exam-prep/)|✅|
+|[Udemy: Introduction to networking for complete begginers](https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/)|✅|
+|[Udemy: IP Subnetting for CCNA](https://www.udemy.com/course/ip-subnetting-demystified/)|✅|
+|[Udemy: Binary, Hex and Decimal Conversion](https://www.udemy.com/course/ccna-200-301-binary-hexadecimal-decimal-/)|✅|
 
 <details>
 <summary>Additional Resources</summary>
@@ -29,7 +32,6 @@ A running log of things I'm learning to build strong core skill set while also e
 |[HTB Academy: intro to academy](https://academy.hackthebox.com/module/details/15)|✅|
 |[HTB Academy: setting up](https://academy.hackthebox.com/module/details/87)|✅|
 |[HTB Academy: Network enumeration with nmap](https://academy.hackthebox.com/module/details/19)|✅|
-|[Udemy:Introduction to networking for complete begginers](https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/)|✅|
 
 <details>
 <summary>Additional Resources</summary>
