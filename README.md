@@ -6,10 +6,10 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
-|[CCNA 200-301: Network Fundamentals](https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/)|✅|
-|[CCNA 200-301: TCP/IP and OSI Model](https://www.udemy.com/course/free-ccna-200-301-course-tcpip-and-osi-models-explained/)|✅|
-|[Network Chuck CCNA 200-301 Course](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)|✅|
-|[CCNA 200-301: Addressing and Subnetting](https://www.udemy.com/course/ccna-ip-addressing-and-subnetting-practical-exam-prep/)|✅|
+|[YouTube: Network Chuck CCNA 200-301 Course](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)|✅|
+|[Udemy: CCNA 200-301: Network Fundamentals](https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/)|✅|
+|[Udemy: CCNA 200-301: TCP/IP and OSI Model](https://www.udemy.com/course/free-ccna-200-301-course-tcpip-and-osi-models-explained/)|✅|
+|[Udemy: CCNA 200-301: Addressing and Subnetting](https://www.udemy.com/course/ccna-ip-addressing-and-subnetting-practical-exam-prep/)|✅|
 |[Udemy: Introduction to networking for complete begginers](https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/)|✅|
 |[Udemy: IP Subnetting for CCNA](https://www.udemy.com/course/ip-subnetting-demystified/)|✅|
 |[Udemy: Binary, Hex and Decimal Conversion](https://www.udemy.com/course/ccna-200-301-binary-hexadecimal-decimal-/)|✅|
@@ -71,10 +71,10 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
-|[Python: Automate the boring stuff](https://www.udemy.com/course/automate/?couponCode=ST18MT62524)|✅|
-|[From zero to hero in python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)|✅|
-|[Python from begginer to intermediate](https://www.udemy.com/course/python-from-beginner-to-expert-starter-free/)|✅|
-|[Learn python for total begginers](https://www.udemy.com/course/python-3-for-total-beginners/)|✅|
+|[Udemy: Python - Automate the boring stuff](https://www.udemy.com/course/automate/?couponCode=ST18MT62524)|✅|
+|[Udemy: From zero to hero in python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)|✅|
+|[Udemy: Python from begginer to intermediate](https://www.udemy.com/course/python-from-beginner-to-expert-starter-free/)|✅|
+|[Udemy: Learn python for total begginers](https://www.udemy.com/course/python-3-for-total-beginners/)|✅|
 
 
 <details>
