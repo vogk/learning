@@ -13,6 +13,8 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Udemy: Introduction to networking for complete begginers](https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/)|✅|
 |[Udemy: IP Subnetting for CCNA](https://www.udemy.com/course/ip-subnetting-demystified/)|✅|
 |[Udemy: Binary, Hex and Decimal Conversion](https://www.udemy.com/course/ccna-200-301-binary-hexadecimal-decimal-/)|✅|
+|[Udemy: Retro Networking with 10Base5 & 10Base2](https://www.udemy.com/course/retro-networking-with-10base5-10base2/)|✅|
+|[HTB Academy: Introduction to Networking](https://academy.hackthebox.com/module/details/34)| |
 
 <details>
 <summary>Additional Resources</summary>
@@ -90,7 +92,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 |[Github: Working with forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)|✅|
-|[Git and Github crash course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/)|✅|
+|[Udemy: Git and Github crash course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/)|✅|
 
 <details>
 <summary>Additional Resources</summary>
