@@ -14,7 +14,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Udemy: IP Subnetting for CCNA](https://www.udemy.com/course/ip-subnetting-demystified/)|✅|
 |[Udemy: Binary, Hex and Decimal Conversion](https://www.udemy.com/course/ccna-200-301-binary-hexadecimal-decimal-/)|✅|
 |[Udemy: Retro Networking with 10Base5 & 10Base2](https://www.udemy.com/course/retro-networking-with-10base5-10base2/)|✅|
-|[HTB Academy: Introduction to Networking](https://academy.hackthebox.com/module/details/34)| |
+|[HTB Academy: Introduction to Networking](https://academy.hackthebox.com/module/details/34)|✅|
 
 <details>
 <summary>Additional Resources</summary>
@@ -46,7 +46,7 @@ A running log of things I'm learning to build strong core skill set while also e
 ## Linux and Command Line
 
 |Resource|Progress|
-|---|---|
+|[HTB Academy: Linux Fundamentals](https://academy.hackthebox.com/module/details/18)| |
 
 <details>
 <summary>Additional Resources</summary>
