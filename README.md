@@ -46,6 +46,7 @@ A running log of things I'm learning to build strong core skill set while also e
 ## Linux and Command Line
 
 |Resource|Progress|
+|---|---|
 |[HTB Academy: Linux Fundamentals](https://academy.hackthebox.com/module/details/18)| |
 
 <details>
