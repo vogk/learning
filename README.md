@@ -141,6 +141,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |Resource|Progress|
 |---|---|
 |[A mini course on time managment](https://www.udemy.com/course/manageyourtime/)|✅|
+|[HTB Academy: Learning Process](https://academy.hackthebox.com/module/details/9)|✅|
 
 <details>
 <summary>Additional Resources</summary>
