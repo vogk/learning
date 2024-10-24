@@ -17,6 +17,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |[HTB Academy: Introduction to Networking](https://academy.hackthebox.com/module/details/34)|✅|
 |[Netacad: Getting started with cisco packet tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)|✅|
 |[Netacad: Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)|✅|
+|[]()||
 
 <details>
 <summary>Additional Resources</summary>
