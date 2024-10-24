@@ -15,7 +15,8 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Udemy: Binary, Hex and Decimal Conversion](https://www.udemy.com/course/ccna-200-301-binary-hexadecimal-decimal-/)|✅|
 |[Udemy: Retro Networking with 10Base5 & 10Base2](https://www.udemy.com/course/retro-networking-with-10base5-10base2/)|✅|
 |[HTB Academy: Introduction to Networking](https://academy.hackthebox.com/module/details/34)|✅|
-|[Netcad: Getting started with cisco packet tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)|✅|
+|[Netacad: Getting started with cisco packet tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)|✅|
+|[Netacad: Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)|✅|
 
 <details>
 <summary>Additional Resources</summary>
