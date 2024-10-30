@@ -17,7 +17,7 @@ A running log of things I'm learning to build strong core skill set while also e
 |[HTB Academy: Introduction to Networking](https://academy.hackthebox.com/module/details/34)|✅|
 |[Netacad: Getting started with cisco packet tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)|✅|
 |[Netacad: Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)|✅|
-|[]()||
+|[Netacad: Networking devices and initial configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)||
 
 <details>
 <summary>Additional Resources</summary>
@@ -50,7 +50,7 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
-|[HTB Academy: Linux Fundamentals](https://academy.hackthebox.com/module/details/18)| |
+|[HTB Academy: Linux Fundamentals](https://academy.hackthebox.com/module/details/18)|✅|
 
 <details>
 <summary>Additional Resources</summary>
@@ -145,11 +145,13 @@ A running log of things I'm learning to build strong core skill set while also e
 |---|---|
 |[A mini course on time managment](https://www.udemy.com/course/manageyourtime/)|✅|
 |[HTB Academy: Learning Process](https://academy.hackthebox.com/module/details/9)|✅|
+|[Vim Tutor](https://vimschool.netlify.app/introduction/vimtutor/)||
 
 <details>
 <summary>Additional Resources</summary>
 
 |Resource|Progress|
 |---|---|
+|[]()|✅|
 
 </details>
