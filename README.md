@@ -18,6 +18,9 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Netacad: Getting started with cisco packet tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)|✅|
 |[Netacad: Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)|✅|
 |[Netacad: Networking devices and initial configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)||
+|[Try Hack Me: What is networking](https://tryhackme.com/r/room/whatisnetworking)|✅|
+|[Try Hack Me: Intro to LAN](https://tryhackme.com/r/room/introtolan)|✅|
+|[Try Hack Me: OSI Model](https://tryhackme.com/r/room/osimodelzi)||
 
 <details>
 <summary>Additional Resources</summary>
@@ -40,7 +43,6 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Try Hack Me: Defensive security intro](https://tryhackme.com/r/room/defensivesecurityintro)|✅|
 |[Try Hack Me: Offensive security intro](https://tryhackme.com/r/room/offensivesecurityintro)|✅|
 |[Try Hack Me: Careers in cyber](https://tryhackme.com/r/room/careersincyber)|✅|
-
 
 <details>
 <summary>Additional Resources</summary>
