@@ -37,6 +37,10 @@ A running log of things I'm learning to build strong core skill set while also e
 |[HTB Academy: intro to academy](https://academy.hackthebox.com/module/details/15)|✅|
 |[HTB Academy: setting up](https://academy.hackthebox.com/module/details/87)|✅|
 |[HTB Academy: Network enumeration with nmap](https://academy.hackthebox.com/module/details/19)|✅|
+|[Try Hack Me: Defensive security intro](https://tryhackme.com/r/room/defensivesecurityintro)|✅|
+|[Try Hack Me: Offensive security intro](https://tryhackme.com/r/room/offensivesecurityintro)|✅|
+|[Try Hack Me: Careers in cyber](https://tryhackme.com/r/room/careersincyber)|✅|
+
 
 <details>
 <summary>Additional Resources</summary>
@@ -57,6 +61,7 @@ A running log of things I'm learning to build strong core skill set while also e
 
 |Resource|Progress|
 |---|---|
+|[Vim Tutor](https://vimschool.netlify.app/introduction/vimtutor/)||
 
 </details>
 
@@ -145,7 +150,6 @@ A running log of things I'm learning to build strong core skill set while also e
 |---|---|
 |[A mini course on time managment](https://www.udemy.com/course/manageyourtime/)|✅|
 |[HTB Academy: Learning Process](https://academy.hackthebox.com/module/details/9)|✅|
-|[Vim Tutor](https://vimschool.netlify.app/introduction/vimtutor/)||
 
 <details>
 <summary>Additional Resources</summary>
