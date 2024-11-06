@@ -20,7 +20,9 @@ A running log of things I'm learning to build strong core skill set while also e
 |[Netacad: Networking devices and initial configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)||
 |[Try Hack Me: What is networking](https://tryhackme.com/r/room/whatisnetworking)|✅|
 |[Try Hack Me: Intro to LAN](https://tryhackme.com/r/room/introtolan)|✅|
-|[Try Hack Me: OSI Model](https://tryhackme.com/r/room/osimodelzi)||
+|[Try Hack Me: OSI Model](https://tryhackme.com/r/room/osimodelzi)|✅|
+|[Try Hack Me: Packets and Frames](https://tryhackme.com/r/room/packetsframes)|✅|
+|[Try Hack Me: Extending your network](https://tryhackme.com/r/room/extendingyournetwork)|✅|
 
 <details>
 <summary>Additional Resources</summary>
